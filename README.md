@@ -11,7 +11,7 @@ ___
 ```bash
 #已经安装wget这一步可省略
 yum -y install wget
-wget https://raw.githubusercontent.com/Mr-Chatwin/seafile/master/install_seafile.sh
+wget https://raw.githubusercontent.com/liuyongzheng07/seafile/master/install_seafile.sh
 chmod +x install_seafile.sh && ./install_seafile.sh
 ```
 
@@ -20,4 +20,4 @@ chmod +x install_seafile.sh && ./install_seafile.sh
 
 
 
-fork自小Z博客  更改安装seafile-pro-server_6.1.4。
+fork自小Z博客  更改安装seafile-pro-server_6.3.6。
