@@ -11,7 +11,7 @@ ___
 ```bash
 #已经安装wget这一步可省略
 yum -y install wget
-wget https://raw.githubusercontent.com/liuyongzheng07/seafile/master/install_seafile.sh
+wget https://raw.githubusercontent.com/suifeng07/seafile/master/install_seafile.sh
 chmod +x install_seafile.sh && ./install_seafile.sh
 ```
 
